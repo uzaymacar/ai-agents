@@ -2,13 +2,11 @@
 
 This is a repository collecting various AI agents I've worked on.
 
-Some of them I use frequently and other I programmed for fun and learning.
+Some of them I use frequently and others I programmed for fun or learning.
 
-They cover a wide range of **frameworks** (e.g. LangGraph, LangChain, CrewAI, Ollama, etc.), **models** (e.g. Anthropic, DeepSeek R1, etc.), **tools** (e.g. YouTube API, LinkedIn API, etc.), and **topics** (e.g. video summarization, podcast outline,reasoning).
+They cover a wide range of **frameworks** (e.g. LangGraph, LangChain, CrewAI, Ollama), **models** (e.g. Anthropic, DeepSeek R1), **tools** (e.g. YouTube API, LinkedIn API), and **topics** (e.g. video summarization, podcast outline, reasoning).
 
-I hope you find them useful. 
-
-You can find all of the agents in the `agents/` directory.
+I hope you find them useful, feel free to use them in your projects. You can find all of the agents in the `agents/` directory.
 
 ## Agents
 
