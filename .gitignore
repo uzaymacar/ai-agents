@@ -4,3 +4,5 @@
 /base_data
 __pycache__/
 db/
+.DS_Store
+scripts/
