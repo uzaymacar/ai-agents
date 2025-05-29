@@ -1,5 +1,7 @@
 # AI Agents
 
+**NOTE**: *This repository is still in progress and will be updated in the near future. While I started putting these agents together nearly a year ago, the AI agents landscape has evolved significantly since then and things might be out-of-date.*
+
 This is a repository collecting various AI agents I've worked on.
 
 Some of them I use frequently and others I programmed for fun or learning.
