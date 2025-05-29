@@ -1,3 +1,4 @@
+.gitignore
 *_credentials.json
 .env
 /collected_data
@@ -6,3 +7,5 @@ __pycache__/
 db/
 .DS_Store
 scripts/
+.cursorindexingignore
+.specstory
