@@ -23,3 +23,7 @@ Generates a podcast outline based on a given guest and a given podcast topic. Us
 ### [DeepSeek R1 Agent](agents/deepseek-reasoning-agent.ipynb)
 
 A reasoning agent using the DeepSeek R1 model. Uses Langchain and Ollama.
+
+### [Email Enhancer Agent](agents/email-enhancer-agent.ipynb)
+
+A 4-step email enhancement agent that researches best practices, improves subject lines, enhances content, and composes professional emails. Uses smolagents and OpenAI's gpt-4o-mini model.
